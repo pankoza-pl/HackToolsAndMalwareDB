@@ -1,0 +1,9 @@
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\bin\Release\JigsawRansomware.exe
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\bin\Release\JigsawRansomware.pdb
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\bin\Release\Newtonsoft.Json.dll
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\bin\Release\Newtonsoft.Json.xml
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.csprojResolveAssemblyReference.cache
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\obj\Release\Main.Properties.Resources.resources
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.csproj.GenerateResource.Cache
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.exe
+c:\users\sasa\documents\visual studio 2013\Projects\JigsawRansomware\JigsawRansomware\obj\Release\JigsawRansomware.pdb
